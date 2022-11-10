@@ -15,7 +15,7 @@ function App() {
 
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/souki03/react-show-your-ip/blob/main/src/componoment/Ip.js"
         >
           Show The Code
         </a>
